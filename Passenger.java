@@ -12,7 +12,7 @@ public class Passenger {
         return this.name;
     }
 
-    /*
+    /**
      * Adds the passenger to the car
      * @param c Car object to add passenger to
      */
@@ -24,7 +24,7 @@ public class Passenger {
         }
     }
 
-    /*
+    /**
      * Removes the passenger from the car
      * @param c Car object to remove passenger from
      */

@@ -1,4 +1,7 @@
 Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Association` affects your programming?
+I think my main impression is how much more sense object oriented programming makes when we consider associations, because I don't think I really understood it before. But now that we are working with more classes and exploring the different ways that they might relate to eachother and use the functionality of other classes, it makes sense that some classes would need information from others in order to be constructed but they still hold different information.
+
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+I found the instructions really helpful because I don't think I would have known where to start, but it seems more intuitive now that you would need to start with the innermost classes instead of jumping in to doing the train, given that the train relies on methods from those classes. I found it really helpful to check that the methods within each class worked before moving on to the next one, so that I was pretty confident of where any errors would be coming from and it wouldn't get confusing. 

@@ -15,7 +15,7 @@ public class Car {
         return this.maxCapacity;
     }
 
-    /*
+    /**
      * Finds the number of remaining seats
      * @return an int (remaining seats)
      */
@@ -23,7 +23,7 @@ public class Car {
         return this.maxCapacity - this.passengersOnboard.size();
     }
 
-    /*
+    /**
      * Adds a Passenger object to the car
      * @param p the Passenger to add
      */
@@ -37,7 +37,7 @@ public class Car {
         this.passengersOnboard.add(p);
     }
 
-    /*
+    /**
      * Removes a Passenger object from the car
      * @param p the Passenger to remove
      */
@@ -48,7 +48,7 @@ public class Car {
         this.passengersOnboard.remove(p);
     }
 
-    /* 
+    /**
      * Prints out a list of all Passenger objects in the Car or prints "This car is EMPTY." if none.
      */
     public void printManifest(){
